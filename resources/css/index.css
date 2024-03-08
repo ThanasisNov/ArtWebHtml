@@ -1,0 +1,37 @@
+header{
+    background-image:url(../images/pattern.jpeg);
+    min-width: 100%;
+    min-height: 200px;
+    background-repeat: no-repeat;
+
+    text-align: center;
+    
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+header h1{
+    
+    color:Khaki;
+font-size:100px;
+}
+
+  .brushes h1 {
+    color:white;
+    background-color:MediumSpringGreen;
+    
+}
+div p strong
+{
+    color:blue;
+}
+ .paint h1{
+ color:white;
+ background: skyblue;
+}
+
+.frames h1{
+    color:white;
+    background-color:lightcoral ;
+}
